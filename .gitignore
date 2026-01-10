@@ -6,7 +6,6 @@ code_linter
 /.vagrant
 .directory
 *.swp
-/.vscode
 
 # created files during build
 src/version/version.h
@@ -14,3 +13,7 @@ src/version/version.h
 # helper files
 /taptest.sh
 /run.sh
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
